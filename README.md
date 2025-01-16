@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Banner](banner.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shft1&layout=compact)
