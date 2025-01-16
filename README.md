@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://link-to-your-banner-image.com/banner.jpg)
+![Banner](banner.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shft1&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shft1&show_icons=true)
