@@ -18,7 +18,9 @@
 
 **[gRPC-notes](https://github.com/shft1/gRPC-notes)** - Сервис заметок с продвинутой реализацией gRPC и Protobuf, поддерживающий стриминг-методы, интерцепторы, валидацию на уровне .proto, HTTP-доступ и Swagger UI. Использует собственный protoc-плагин.
 
-**[PachcaCodeGen](https://github.com/shft1/PachcaCodeGen)** - Библиотека для работы с API мессенджера "Пачка", автоматически генерируемая по документации OpenAPI. 
+**[Algorithms-Structures-Tasks](https://github.com/shft1/PachcaCodeGen)** - Моя тренировочная площадка по алгоритмам и структурам данных. Здесь собраны мои решения алгоритмических задач с популярных платформ.
+
+**[PachcaCodeGen](https://github.com/shft1/Algorithms-Structures-Tasks)** - Библиотека для работы с API мессенджера "Пачка", автоматически генерируемая по документации OpenAPI. 
 
 **[BonoAppetito](https://github.com/shft1/BonoAppetito)** - Веб-приложение, на котором пользователи будут публиковать рецепты, добавлять чужие рецепты в избранное и подписываться на публикации других авторов.   
 **Ссылка на проект** - https://bonoappetito.ru/recipes
